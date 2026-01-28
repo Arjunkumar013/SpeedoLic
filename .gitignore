@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# SpeedoLic Project - Files not needed for main application
+*.ipynb
+ANPR_Model_Full/
+SpeedoLic_Demo_Speech.txt
+setup_admin.py
+test_network.py
+speedolic_data.json
